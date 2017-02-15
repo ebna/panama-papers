@@ -9,9 +9,6 @@ library(doParallel)
 registerDoParallel(cores=3)  # register no. cores for parallelization
 library(network)
 library(sna)
-library(lmtest)
-library(sandwich)
-library(KRLS)
 
 
 ###
