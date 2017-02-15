@@ -1,6 +1,5 @@
 # rm(list=ls())
 setwd("~/Dropbox/eliteNetworks/data")
-# TEST
 
 library(foreign)
 library(dplyr)
